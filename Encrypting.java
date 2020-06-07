@@ -6,6 +6,7 @@ import java.awt.event.ActionListener;
 /**
  * @author Mesha on 07/06/2020
  * @project Encrypting
+ * Free to use but give credit
  **/
 public class Encrypting extends JFrame implements ActionListener {
 
